@@ -12,4 +12,4 @@ A dictionary of tech concepts, open and community led.
   - clone the repo
 
 # License
-The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
+The contents of this repository are licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
